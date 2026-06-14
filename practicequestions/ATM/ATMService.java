@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import org.lld.practicequestions.ATM.ATMStates.IdleState;
+import practicequestions.ATM.ATMStates.IdleState;
 
 public class ATMService {
     private static List<ATM>atmList;
